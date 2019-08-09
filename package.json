@@ -1,5 +1,4 @@
 {
-  "homepage": "https://adityareddy1231.github.io/reduxstagram",
   "name": "reduxstagram",
   "version": "1.0.0",
   "description": ":) ",
@@ -12,10 +11,6 @@
     "tunnel": "browser-sync start --proxy localhost:7770 --tunnel wesbos",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/adityareddy1231/reduxstagram.git"
   },
   "author": "Aditya Reddy",
   "license": "MIT",
